@@ -1,0 +1,52 @@
+Reference Links
+=======================
+https://www.anthropic.com/research/effective-context-engineering-for-ai-agents
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-examples.html
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-organization.html
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-strategies.html#memory-built-in-strategies-desc
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-cli.html
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html
+
+https://github.com/aws-solutions-library-samples/guidance-for-cost-analysis-and-optimization-with-amazon-bedrock-agentcore/blob/main/README.md
+
+https://docs.aws.amazon.com/solutions/cost-analysis-and-optimization-with-amazon-bedrock-agentcore-on-aws/
+
+Amazon Bedrock AgentCore Workshops - https://builder.aws.com/build/workshops?trk=1168f93b-b802-46ba-abe5-20ee44f67f38&sc_channel=el&tab=discover
+
+Build Context-Aware Agents with Amazon Bedrock AgentCore Memory:
+https://skillbuilder.aws/learn/66AJAJVAS1/build-contextaware-agents-with-amazon-bedrock-agentcore-memory/HEDEVEGXG7
+
+Secure AI Agent Access with Amazon Bedrock AgentCore Identity:
+https://skillbuilder.aws/learn/BUYCUB2WR3/lab--secure-ai-agent-access-with-amazon-bedrock-agentcore-identity/Z77D32673S
+
+Integrate Agents with MCP Servers and Tools using AgentCore Gateway:
+https://skillbuilder.aws/learn/5ZQJS35HD6/lab--integrate-agents-with-mcp-servers-and-tools-using-agentcore-gateway/WGQQATAM46
+
+Monitor Agent Performance and Telemetry using AgentCore Observability:
+https://skillbuilder.aws/learn/JKJ5QK336Q/lab--monitor-agent-performance-and-telemetry-using-agentcore-observability/8KPZAQEA62
+
+Building Your Agentic Applications the Well-Architected Way:
+https://skillbuilder.aws/learn/R44Y8PRVRW/building-your-agentic-applications-the-wellarchitected-way/8W5HD7KWJ4
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/browser-session-recording.html
+
+https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/
+
+Building Your Agentic Applications the Well-Architected Way:
+https://skillbuilder.aws/learn/R44Y8PRVRW/building-your-agentic-applications-the-wellarchitected-way/8W5HD7KWJ4
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/evaluations.html
+
+https://github.com/aws-samples/sample-amazon-bedrock-agentcore-onboarding/blob/main/04_observability/README.md
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-telemetry.html
+
+https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability.html
+
+https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems
+
